@@ -1,0 +1,5 @@
+<div style='border: solid 1px #222; padding: 10px;'>
+  <button id='ping'>Ping</button>
+  <div style='font-family: monospace; font-size: 1.2em; color:limegreen;margin: 10px;background: #222; padding: 10px;' id="out">
+  </div>
+</div>
